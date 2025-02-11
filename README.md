@@ -1,4 +1,4 @@
-I'm an aspiring computer engineer!
+I'm computer engineering major!
 
 <!---
 VanillaRamen/VanillaRamen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
